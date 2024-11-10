@@ -27,7 +27,7 @@ A classic Snake game built using JavaScript, HTML, and CSS. This version of the 
 ## Screenshots
 
 ### Game Play
-![Game Play](game.png)
+![Game Play](image.png)
 
 ---
 
